@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886981947758",
+    "project_id": "jules-eval-flutter",
+    "storage_bucket": "jules-eval-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886981947758:android:e2cc676747f9c9eac0117f",
+        "android_client_info": {
+          "package_name": "fr.jules.evalflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDXfzrcit4u9N5y-_sEvoXKO93RGyhBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
